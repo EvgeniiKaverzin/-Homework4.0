@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
     // Домашняя работа 1
         System.out.println("Домашняя работа 1");
 
